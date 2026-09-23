@@ -6,7 +6,7 @@ A modern, interactive, and responsive **Typing Test Web Application** built with
 
 <p align="center">
   <a href="https://bidhanpk1.github.io/type/">
-    <strong>🚀 Try the Live Demo</strong>
+    🚀 <strong>Try the Live Demo</strong>
   </a>
 </p>
 
@@ -67,19 +67,19 @@ type/
 
 ## 💻 Getting Started
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/bidhanpk1/type.git
 ```
 
-### 2. Open the project
+### 2. Open the Project
 
 ```bash
 cd type
 ```
 
-### 3. Run the project
+### 3. Run the Project
 
 Open `index.html` in your browser.
 
@@ -99,16 +99,38 @@ No installation or dependencies are required.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 About the Developer
 
-### Bidhan Kumar PK
+### **Bidhan Kumar PK**
 
-**SEO Specialist • WordPress Expert • Digital Marketer • AI & Web Development**
+SEO Specialist • WordPress Expert • Digital Marketer • AI & Web Development
 
-<p>
+<p align="center">
   <a href="https://github.com/bidhanpk1">
     <img src="https://img.shields.io/badge/GitHub-BidhanPK1-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
+  <a href="https://www.bidhan.site/">
+    <img src="https://img.shields.io/badge/Website-bidhan.site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://bidhan.pro.bd/">
+    <img src="https://img.shields.io/badge/Portfolio-bidhan.pro.bd-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.bidhan.site/">🌐 Website</a> •
+  <a href="https://bidhan.pro.bd/">💼 Portfolio</a> •
+  <a href="https://github.com/bidhanpk1">💻 GitHub</a>
+</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/truly.BiDHAN">Facebook</a> •
+  <a href="https://www.instagram.com/truly_bidhan/">Instagram</a> •
+  <a href="https://www.linkedin.com/in/bidhanpk/">LinkedIn</a>
 </p>
 
 ---
@@ -116,8 +138,6 @@ No installation or dependencies are required.
 ## ⭐ Support
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
-
----
 
 <p align="center">
   <strong>⌨️ Practice More • Type Faster • Improve Every Day 🚀</strong>
