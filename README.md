@@ -48,7 +48,7 @@ A modern, interactive, and responsive **Typing Test Web Application** built with
 
 ## 🌐 Live Demo
 
-🚀 **[Open Typing Test](https://bidhanpk1.github.io/type/)**
+🚀 **[Open Typing Test](https://type.bidhan.site/)**
 
 ---
 
