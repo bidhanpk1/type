@@ -121,11 +121,6 @@ SEO Specialist • WordPress Expert • Digital Marketer • AI & Web Developmen
 
 ## 🌍 Connect With Me
 
-<p align="center">
-  <a href="https://www.bidhan.site/">🌐 Website</a> •
-  <a href="https://bidhan.pro.bd/">💼 Portfolio</a> •
-  <a href="https://github.com/bidhanpk1">💻 GitHub</a>
-</p>
 
 <p align="center">
   <a href="https://www.facebook.com/truly.BiDHAN">Facebook</a> •
