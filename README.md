@@ -123,9 +123,12 @@ SEO Specialist • WordPress Expert • Digital Marketer • AI & Web Developmen
 
 
 <p align="center">
+  <a href="mailto:bidhanpk17@gmail.com">Email</a> •
   <a href="https://www.facebook.com/truly.BiDHAN">Facebook</a> •
   <a href="https://www.instagram.com/truly_bidhan/">Instagram</a> •
+  <a href="https://x.com/bidhanpk1">X</a> •
   <a href="https://www.linkedin.com/in/bidhanpk/">LinkedIn</a>
+  <a href="https://wa.me/+8801793381366">WhatsApp</a> •
 </p>
 
 ---
