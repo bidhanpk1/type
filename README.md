@@ -5,7 +5,7 @@
 A modern, interactive, and responsive **Typing Test Web Application** built with HTML, CSS, and JavaScript. Practice your typing skills, measure your **Words Per Minute (WPM)**, and track your accuracy in real time.
 
 <p align="center">
-  <a href="https://bidhanpk1.github.io/type/">
+  <a href="https://type.bidhan.site/">
     🚀 <strong>Try the Live Demo</strong>
   </a>
 </p>
