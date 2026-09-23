@@ -119,17 +119,34 @@ SEO Specialist • WordPress Expert • Digital Marketer • AI & Web Developmen
 
 ---
 
-## 🌍 Connect With Me
-
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:bidhanpk17@gmail.com">Email</a> •
-  <a href="https://www.facebook.com/truly.BiDHAN">Facebook</a> •
-  <a href="https://www.instagram.com/truly_bidhan/">Instagram</a> •
-  <a href="https://x.com/bidhanpk1">X</a> •
-  <a href="https://www.linkedin.com/in/bidhanpk/">LinkedIn</a>
-  <a href="https://wa.me/+8801793381366">WhatsApp</a> •
+  <a href="mailto:bidhanpk17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/truly.BiDHAN">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/truly_bidhan/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="https://x.com/bidhanpk">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/bidhanpk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://wa.me/8801793381366">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
 </p>
+
 
 ---
 
